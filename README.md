@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **cybersecurity, tech**, **AI**
 
-- 📄 Learn more about [my experience](https://docs.google.com/document/d/17KaJiXy7cvjRD1Ol8sZRldSQFASUdvz5/edit?usp=sharing&ouid=103962771544298166398&rtpof=true&sd=true)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tonyharkness" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonyharkness" height="30" width="40" /></a>
