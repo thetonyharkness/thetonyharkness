@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thetonyharkness&label=Profile%20views&color=0e75b6&style=flat" alt="thetonyharkness" /> </p>
 
-- 🔭 I’m currently working on [my new website](https://tonyharkness.com)
+- 🔭 I’m currently working on [my new website](https://tonyharkness.com) and landing my first role as a Penetration Tester!
 
-- 🌱 I’m currently learning **material for the PNPT certification exam**
+- 🌱 I’m currently learning **material for the PJWP certification exam**
 
 - 💬 Ask me about **cybersecurity, tech**, **AI**
 
